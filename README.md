@@ -73,7 +73,7 @@ A comprehensive budget management system for advertising agencies built with Dja
 ## Tech Stack
 
 - **Backend**: Django 5.0.7 with PostgreSQL/SQLite
-- **Task Queue**: Celery 5.3.7 with Redis
+- **Task Queue**: Celery 5.3.6 with Redis
 - **Type Checking**: mypy with strict configuration
 - **Database**: PostgreSQL (production) / SQLite (development)
 - **Caching/Broker**: Redis
